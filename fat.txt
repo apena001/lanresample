@@ -15,25 +15,25 @@ Complete all these 10 tasks into a single shell script
 7. Create a backup of a specified file by copying it to a backup directory with a timestamp in the filename.
 8. Check if a website is online and output a message indicating whether it is up or down.
 9. Convert a temperature in Celsius to Fahrenheit, using input from the user.
-10. Ask the user for a sentence, then output the sentence in reverse order. For example, if the user enters “Hello, world!”, the script should output “!dlrow ,olleH”.
+10. Ask the user for a sentence, then output the sentence in reverse order. For example, if the user enters â€œHello, world!â€, the script should output â€œ!dlrow ,olleHâ€.
 * Create the project folder called Shell
 mkdir Shell
 * Move into the Shell folder
 cd Shell
-* In the Shell directory, create a file for your Shell script named “script_task.sh”
+* In the Shell directory, create a file for your Shell script namedÂ â€œscript_task.shâ€
 touch script_task.sh
-* Copy/write your Shell script into the *”script_task.sh” file using vim editor.
+* Copy/write your Shell script into theÂ *â€script_task.shâ€Â file using vim editor.
 vi script_task.sh
-NOTE: You can develop your shell script on a note pad, before copying and paste into the “script_task.sh” file.
+NOTE:Â You can develop your shell script on a note pad, before copying and paste into theÂ â€œscript_task.shâ€Â file.
 * Make the script file executable:
 chmod +x script_task.sh
 * Run the script :
 sudo ./script_task.sh
 Instructions On How To Submit Your Work For Review And Feedback
 Follow the steps below to submit your work for review
-1. Create a git repository and name it auxillary-projects
-2. name your shell script script_task
+1. Create a git repository and name itÂ auxillary-projects
+2. name your shell scriptÂ script_task
 3. Screen record your work, and demo how your script performs all the ten tasks.
 4. Document your Aux project 1 and input link to your screen recording.
-5. Submit links to your Github repo.
+5. Submit links to your Github repository.
 
