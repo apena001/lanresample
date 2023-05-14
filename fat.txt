@@ -35,5 +35,5 @@ Follow the steps below to submit your work for review
 2. name your shell script script_task
 3. Screen record your work, and demo how your script performs all the ten tasks.
 4. Document your Aux project 1 and input link to your screen recording.
-5. Submit links to your Github repository.
+5. Submit links to your Github repo.
 
